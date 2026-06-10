@@ -1,4 +1,4 @@
-# LucidLock RTL Constellation Firewall  
+# LucidLock RTL Language Firewall  
 ### Multi-Agent Recursive Translation System for Right-to-Left Languages  
 **Defensive Publication · November 2025**
 
